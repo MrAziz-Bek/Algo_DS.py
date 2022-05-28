@@ -1,0 +1,15 @@
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.deps.json
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.runtimeconfig.json
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.dll
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.pdb
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.csproj.AssemblyReference.cache
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfoInputs.cache
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfo.cs
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.dll
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/refint/Algorithms.dll
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.pdb
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.genruntimeconfig.cache
+/Users/azizbekboboyev/Developer/vscode/Algorithms/Algorithms/obj/Debug/net6.0/ref/Algorithms.dll
